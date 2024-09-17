@@ -2,7 +2,7 @@
 node_modules/
 
 # credentials file
-test
+test/
 
 # Logs
 logs
