@@ -1,0 +1,42 @@
+[
+  {
+    "key": "created_at",
+    "name": "Created At",
+    "hintText": "Created At",
+    "helpText": "Created At",
+    "isExtendedSchema": false,
+    "required": false,
+    "type": "string",
+    "controlType": "text"
+  },
+  {
+    "key": "link",
+    "name": "Link",
+    "hintText": "Link",
+    "helpText": "Link",
+    "isExtendedSchema": false,
+    "required": false,
+    "type": "string",
+    "controlType": "text"
+  },
+  {
+    "key": "id",
+    "name": "Id",
+    "hintText": "Id",
+    "helpText": "Id",
+    "isExtendedSchema": false,
+    "required": false,
+    "type": "string",
+    "controlType": "text"
+  },
+  {
+    "key": "long_url",
+    "name": "Long Url",
+    "hintText": "Long Url",
+    "helpText": "Long Url",
+    "isExtendedSchema": false,
+    "required": false,
+    "type": "string",
+    "controlType": "text"
+  }
+]
